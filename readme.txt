@@ -8,7 +8,7 @@ By 22 Dec 2015, I succeeded in creating instead an Educational Quiz.
 
 I managed to play the Educational Quiz on my iphone 5S using (apple App: Cocoon Developer App).
 
-The files in my RAP folder are as follows:
+The files in my RAP2 folder are as follows:
 
 (1) D:\RAP2\icon.png
 (2) D:\RAP2\index.html
@@ -38,17 +38,17 @@ The files in my RAP folder are as follows:
 
 Details:
 
-(1) D:\RAP\icon.png
+(1) D:\RAP2\icon.png
 The Cocoon Developer App asked for this file, so I just took an icon from phaser and put it here
 
-(2) D:\RAP\index.html
+(2) D:\RAP2\index.html
 (a) Adapted from examples in phaser: invaders, easing, audio, time, pause menu, etc. 
 They were downloaded from https://github.com/ 
 
 Some other websites: www.photonstorm.com, www.flashbynight.com/tutes/mcqquiz
 
 (b) Initialy used Wamp(www.wampserver.com/en/) to study these examples but after changing to Windows10, 
-I will unplug my cable and used the following:
+I will ensure that the internet cable is unplugged and used the following:
 
 Start button->Settings->search for Task(after keying in the work 'Task', need not press Enter-> Task Manager
 ->File->Run the command: 
@@ -67,73 +67,73 @@ Question will also appear if the blue ball collide with any animated HappyChild 
 Responses are marked and scores tallied. Counter can be set to 600 seconds (5 minutes game duration) provided
 there are enough questions (>50) , otherwise, game will hang. There are only 12 questions now.   
 
-(3) D:\RAP\_site\js\jquery-2.0.3.min.js
+(3) D:\RAP2\_site\js\jquery-2.0.3.min.js
 Obtained from phaser examples.
 
-(4) D:\RAP\_site\phaser\phaser.2.4.4.min.js
+(4) D:\RAP2\_site\phaser\phaser.2.4.4.min.js
 Obtained from phaser examples. 
 
-(5) D:\RAP\assets\activity.json
+(5) D:\RAP2\assets\activity.json
 This file contains the questions (text or pictures). The first option is the answer to the question. 
 
-(6) D:\RAP\assets\background.png
+(6) D:\RAP2\assets\background.png
 This picture shows a quadrangle.
 
-(7) D:\RAP\assets\blackbg.png
+(7) D:\RAP2\assets\blackbg.png
 Obtained from www.flashbynight.com/tutes/mcqquiz.
 
-(8) D:\RAP\assets\blueball.png
+(8) D:\RAP2\assets\blueball.png
 Obtained from phaser time examples. 
 
-(9) D:\RAP\assets\button.png  
+(9) D:\RAP2\assets\button.png  
 Obtained from phaser examples. 
 
-(10)D:\RAP\assets\happychild40x60x4.png
+(10)D:\RAP2\assets\happychild40x60x4.png
 Modified from phaser examples. 
 
-(11)D:\RAP\assets\instructions.png
+(11)D:\RAP2\assets\instructions.png
 This is the Quiz starting instructions.
 
-(12)D:\RAP\assets\ting.mp3
+(12)D:\RAP2\assets\ting.mp3
 Obtained from www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/phaser examples. 
 
-(13)D:\RAP\assets\ting2.mp3
+(13)D:\RAP2\assets\ting2.mp3
 Obtained from www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/phaser examples. 
 
-(14)D:\RAP\img\beagle.png
+(14)D:\RAP2\img\beagle.png
 Obtained from phaser examples. 
 
-(15)D:\RAP\img\cat.png
+(15)D:\RAP2\img\cat.png
 Obtained from free picture websites.
  
-(16)D:\RAP\img\cheetah.png
+(16)D:\RAP2\img\cheetah.png
 Obtained from phaser examples. 
 
-(17)D:\RAP\img\chipmunk.png
+(17)D:\RAP2\img\chipmunk.png
 Obtained from phaser examples. 
 
-(18)D:\RAP\img\dog.png
+(18)D:\RAP2\img\dog.png
 Obtained from free picture websites.
 
-(19)D:\RAP\img\labrador.png
+(19)D:\RAP2\img\labrador.png
 Obtained from phaser examples. 
 
-(20)D:\RAP\img\lion.png
+(20)D:\RAP2\img\lion.png
 Obtained from phaser examples. 
 
-(21)D:\RAP\img\meerkat.png
+(21)D:\RAP2\img\meerkat.png
 Obtained from phaser examples. 
 
-(22)D:\RAP\img\mouse.png
+(22)D:\RAP2\img\mouse.png
 Obtained from free picture websites.
 
-(23)D:\RAP\img\poodle.png
+(23)D:\RAP2\img\poodle.png
 Obtained from phaser examples. 
 
-(24)D:\RAP\img\squirrel.png
+(24)D:\RAP2\img\squirrel.png
 Obtained from phaser examples. 
 
-(25)D:\RAP\img\tiger.png
+(25)D:\RAP2\img\tiger.png
 Obtained from phaser examples.
 
 (apple App: Cocoon Developer App - install this to your iphone - need to do a simple registration 
