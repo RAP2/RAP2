@@ -65,7 +65,7 @@ main.css file is created. Maybe I still do not know how to program this part.
 (e) Game: User click (or touch) the screen to begin the quiz. Quiz questions appear after every 20 seconds. 
 Question will also appear if the blue ball collide with any animated HappyChild on the playfield. 
 Responses are marked and scores tallied. Counter can be set to 600 seconds (5 minutes game duration) provided
-there are enough questions (>50) , otherwise, game will hang. There are only 8 questions now.   
+there are enough questions (>50) , otherwise, game will hang. There are only 12 questions now.   
 
 (3) D:\RAP\_site\js\jquery-2.0.3.min.js
 Obtained from phaser examples.
