@@ -41,7 +41,279 @@
 	"option2":"chipmunk.png",
 	"option3":"squirrel.png",
 	"option4":"mouse.png"
-	}
-
+	},
+	{
+	"question":"What is the capital of Afghanistan?",
+	"option1":"Kabul",
+	"option2":"Tirana",
+	"option3":"Algiers",
+	"option4":"Andorra la Vella"
+	},	
+	{
+	"question":"What is the capital of Angola?",
+	"option1":"Luanda",
+	"option2":"Buenos Aires",
+	"option3":"Yerevan",
+	"option4":"Canberra"
+	},	
+	{
+	"question":"What is the capital of Austria?",
+	"option1":"Vienna",
+	"option2":"Baku",
+	"option3":"Nassau",
+	"option4":"Manama"
+	},	
+	{
+	"question":"What is the capital of Bangladesh?",
+	"option1":"Dhaka",
+	"option2":"Bridgetown",
+	"option3":"Minsk",
+	"option4":"Brussels"
+	},	
+	{
+	"question":"What is the capital of Belize?",
+	"option1":"Belmopan",
+	"option2":"Porto-Novo",
+	"option3":"Thimphu",
+	"option4":"Sarajevo"
+	},	
+	{
+	"question":"What is the capital of Botswana?",
+	"option1":"Gaborone",
+	"option2":"Brasilia",
+	"option3":"Bandar Seri Begawan",
+	"option4":"Sofia"
+	},	
+	{
+	"question":"What is the capital of Burkina Faso?",
+	"option1":"Ouagadougou",
+	"option2":"Bujumbura",
+	"option3":"Phnom Penh",
+	"option4":"Yaounde"
+	},	
+	{
+	"question":"What is the capital of Canada?",
+	"option1":"Ottawa",
+	"option2":"Praia",
+	"option3":"Bangui",
+	"option4":"N'Djamena"
+	},	
+	{
+	"question":"What is the capital of Chile?",
+	"option1":"Santiago",
+	"option2":"Bogota",
+	"option3":"Moroni",
+	"option4":"Brazzaville"
+	},	
+	{
+	"question":"What is the capital of Costa Rica?",
+	"option1":"San Jose",
+	"option2":"Zagreb",
+	"option3":"Havana",
+	"option4":"Nicosia"
+	},	
+	{
+	"question":"What is the capital of Denmark?",
+	"option1":"Copenhagen",
+	"option2":"Djibouti",
+	"option3":"Roseau",
+	"option4":"Santo Domingo"
+	},	
+	{
+	"question":"What is the capital of Ecuador?",
+	"option1":"Quito",
+	"option2":"Cairo",
+	"option3":"San Salvador",
+	"option4":"Malabo"
+	},	
+	{
+	"question":"What is the capital of Eritrea?",
+	"option1":"Asmara",
+	"option2":"Tallinn",
+	"option3":"Addis Ababa",
+	"option4":"Suva"
+	},	
+	{
+	"question":"What is the capital of Finland?",
+	"option1":"Helsinki",
+	"option2":"Paris",
+	"option3":"Libreville",
+	"option4":"Banjul"
+	},	    
+	{
+	"question":"What is the capital of Georgia?",
+	"option1":"Tbilisi",
+	"option2":"Berlin",
+	"option3":"Accra",
+	"option4":"Athens"
+	},	      	
+	{
+	"question":"What is the capital of Grenada?",
+	"option1":"Saint George's",
+	"option2":"Guatemala City",
+	"option3":"Conakry",
+	"option4":"Bissau"
+	},	 	
+	{
+	"question":"What is the capital of Haiti?",
+	"option1":"Port-au-Prince",
+	"option2":"Tegucigalpa",
+	"option3":"Budapest",
+	"option4":"Reykjavik"
+	},	
+	{
+	"question":"What is the capital of India?",
+	"option1":"New Delhi",
+	"option2":"Jakarta",
+	"option3":"Tehran",
+	"option4":"Baghdad"
+	},	
+	{
+	"question":"What is the capital of Italy?",
+	"option1":"Rome",
+	"option2":"Kingston",
+	"option3":"Tokyo",
+	"option4":"Amman"
+	},		
+	{
+	"question":"What is the capital of Kazakhstan?",
+	"option1":"Astana",
+	"option2":"Nairobi",
+	"option3":"Tarawa Atoll",
+	"option4":"Pyongyang"
+	},	
+	{
+	"question":"What is the capital of Kyrgyzstan?",
+	"option1":"Bishkek",
+	"option2":"Vientiane",
+	"option3":"Riga",
+	"option4":"Beirut"
+	},		
+	{
+	"question":"What is the capital of Lesotho?",
+	"option1":"Maseru",
+	"option2":"Monrovia",
+	"option3":"Tripoli",
+	"option4":"Vaduz"
+	},
+	{
+	"question":"What is the capital of Lithuania?",
+	"option1":"Vilnius",
+	"option2":"Luxembourg",
+	"option3":"Skopje",
+	"option4":"Antananarivo"
+	},    
+	{
+	"question":"What is the capital of Malawi?",
+	"option1":"Lilongwe",
+	"option2":"Bamako",
+	"option3":"Kuala Lumpur",
+	"option4":"Male"
+	},       
+	{
+	"question":"What is the capital of Malta?",
+	"option1":"Valletta",
+	"option2":"Majuro",
+	"option3":"Nouakchott",
+	"option4":"Port Louis"
+	},       
+	{
+	"question":"What is the capital of Moldova?",
+	"option1":"Chisinau",
+	"option2":"Majuro",
+	"option3":"Monaco",
+	"option4":"Ulaanbaatar"
+	},     
+	{
+	"question":"What is the capital of Montenegro?",
+	"option1":"Podgorica",
+	"option2":"Rabat",
+	"option3":"Maputo",
+	"option4":"Windhoek"
+	},       
+	{
+	"question":"What is the capital of Nepal?",
+	"option1":"Kathmandu",
+	"option2":"Wellington",
+	"option3":"Managua",
+	"option4":"Niamey"
+	},      
+	{
+	"question":"What is the capital of Nigeria?",
+	"option1":"Abuja",
+	"option2":"Oslo",
+	"option3":"Muscat",
+	"option4":"Islamabad"
+	},     
+	{
+	"question":"What is the capital of Palau?",
+	"option1":"Melekeok",
+	"option2":"Port Moresby",
+	"option3":"Asuncion",
+	"option4":"Lima"
+	},       
+	{
+	"question":"What is the capital of Poland?",
+	"option1":"Warsaw",
+	"option2":"Lisbon",
+	"option3":"Doha",
+	"option4":"Bucharest"
+	},          
+	{
+	"question":"What is the capital of Russia?",
+	"option1":"Moscow",
+	"option2":"Kigali",
+	"option3":"Basseterre",
+	"option4":"Castries"
+	}, 
+	{
+	"question":"What is the capital of Samoa?",
+	"option1":"Apia",
+	"option2":"Riyadh",
+	"option3":"Dakar",
+	"option4":"Belgrade"
+	},     
+	{
+	"question":"What is the capital of Seychelles?",
+	"option1":"Victoria",
+	"option2":"Freetown",
+	"option3":"Bratislava",
+	"option4":"Ljubljana"
+	},       
+	{
+	"question":"What is the capital of Solomon Islands?",
+	"option1":"Honiara",
+	"option2":"Mogadishu",
+	"option3":"Juba",
+	"option4":"Madrid"
+	},      
+	{
+	"question":"What is the capital of Sudan?",
+	"option1":"Khartoum",
+	"option2":"Paramaribo",
+	"option3":"Mbabane",
+	"option4":"Stockholm"
+	},     
+	{
+	"question":"What is the capital of Switzerland?",
+	"option1":"Bern",
+	"option2":"Damascus",
+	"option3":"Taipei",
+	"option4":"Dushanbe"
+	},    
+	{
+	"question":"What is the capital of Thailand?",
+	"option1":"Bangkok",
+	"option2":"Lome",
+	"option3":"Nuku'alofa",
+	"option4":"Tunis"
+	},        
+	{
+	"question":"What is the capital of Turkey?",
+	"option1":"Ankara",
+	"option2":"Kampala",
+	"option3":"Kyiv",
+	"option4":"Abu Dhabi"
+	}          
 ]
 }
