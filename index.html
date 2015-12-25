@@ -165,7 +165,7 @@ function preload() {
     var y1;
     var n=1;
     var instructions;
-    var counter = 60;    
+    var counter = 300;    
     var counter2;
     var counter3;
     var happychildren;
@@ -209,7 +209,7 @@ function create() {
 	      makeButton('Quit', 320, 70);
 
         //  Show the duration of the Quiz.
-        text = game.add.text(game.world.centerX, game.world.topY, 'Time: 60', { font: "34px Arial", fill: "#0000A0", align: "center" });
+        text = game.add.text(game.world.centerX, game.world.topY, 'Time: 300', { font: "34px Arial", fill: "#0000A0", align: "center" });
         text.anchor.setTo(0.5, 0);
               
 	    //	Set up the sound effect.
@@ -367,7 +367,7 @@ function populateArray() {
 }
 
 function scrambleDatabase(){
-  	for(i=0;i<50;i++){ 
+  	for(i=0;i<60;i++){ 
 	var rnd1=Math.floor(Math.random()*questionBank.length);
 	var rnd2=Math.floor(Math.random()*questionBank.length);
 	 
