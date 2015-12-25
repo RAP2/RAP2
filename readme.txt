@@ -50,7 +50,7 @@ Some other websites: www.photonstorm.com, www.flashbynight.com/tutes/mcqquiz
 (b) Initialy used Wamp(www.wampserver.com/en/) to study these examples but after changing to Windows10, 
 I will ensure that the internet cable is unplugged and used the following:
 
-Start button->Settings->search for Task(after keying in the work 'Task', need not press Enter-> Task Manager
+Start button->Settings->search for Task(after keying in the word 'Task', need not press Enter-> Task Manager
 ->File->Run the command: 
 
 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --disable-web-security  
@@ -64,8 +64,8 @@ main.css file is created. Maybe I still do not know how to program this part.
  
 (e) Game: User click (or touch) the screen to begin the quiz. Quiz questions appear after every 20 seconds. 
 Question will also appear if the blue ball collide with any animated HappyChild on the playfield. 
-Responses are marked and scores tallied. Counter can be set to 600 seconds (5 minutes game duration) provided
-there are enough questions (>50) , otherwise, game will hang. There are only 12 questions now.   
+Responses are marked and scores tallied. Counter (variable counter) can be set to 300 seconds (5 minutes game duration) provided
+there are enough questions (>50) , otherwise, game will hang. There are only 51 questions now.   
 
 (3) D:\RAP2\_site\js\jquery-2.0.3.min.js
 Obtained from phaser examples.
@@ -75,6 +75,8 @@ Obtained from phaser examples.
 
 (5) D:\RAP2\assets\activity.json
 This file contains the questions (text or pictures). The first option is the answer to the question. 
+sources: http://geography.about.com/od/countryinformation/a/capitals.htm
+www.flashbynight.com/tutes/mcqquiz
 
 (6) D:\RAP2\assets\background.png
 This picture shows a quadrangle.
@@ -89,7 +91,7 @@ Obtained from phaser time examples.
 Obtained from phaser examples. 
 
 (10)D:\RAP2\assets\happychild40x60x4.png
-Modified from phaser examples. 
+Modified from phaser examples. The number of happychild is set by the variable n. 
 
 (11)D:\RAP2\assets\instructions.png
 This is the Quiz starting instructions.
@@ -144,7 +146,7 @@ assets folder, img folder) and right click mouse to send to Compressed (zipped) 
 
 Use iTunes to copy the zipped file (index.zip to the cocoon app):
 
-Open iTunes, click device, click App, select cocoon App, scroll all the way down, Add file 
+Open iTunes, click device, click App, in File Sharing - select cocoon App in , scroll all the way down, click Add file 
 (the index.zip file) to the App, sync the iphone.
 
 Use iphone, click the Cocoon Developer App. Select 'Your App', click documents, ensure that your 
